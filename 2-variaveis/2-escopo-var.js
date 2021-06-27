@@ -1,4 +1,4 @@
-// Va so aceita escopo de função e escopo global.
+// var so aceita escopo de função e escopo global.
 var test = 'example';
 
 (() => {
