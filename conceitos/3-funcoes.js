@@ -1,4 +1,3 @@
-//
 function getName() {
   return 'Murillo Torres Martins Romeu';
 }
