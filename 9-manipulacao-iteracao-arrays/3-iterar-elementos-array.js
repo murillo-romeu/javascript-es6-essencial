@@ -13,3 +13,9 @@ console.log(numbers.flat(1));
 console.log(numbers.flat(2));
 
 const arrInterator = arr.keys();
+
+console.log(arr);
+const arrInterator2 = arr.entries()
+console.log(arrInterator2);
+arrInterator2.next()
+console.log(arrInterator2);
