@@ -32,7 +32,7 @@ console.log(arr.slice(2));
 console.log(arr.slice(-1));
 console.log(arr.slice(-3));
 
-console.log('alterar array passando posições');
+console.log('alterar array passando posições e a alteração');
 arr.splice(2)
 console.log(arr);
 arr.splice(0, 0, 'first')
